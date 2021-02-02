@@ -70,11 +70,15 @@ p {
     margin-left: 25px;
 }
 
+/* changed "content" selector to "our-features" based on new section class */
+
 .our-features {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* consolidated multiple selectors under new div class "features" */
 
 .features {
     margin-bottom: 20px;
@@ -96,6 +100,7 @@ p {
     font-size: 36px;
 }
 
+/* changed "benefits" selector to "our-benefits" based on new section class */
 
 .our-benefits {
     margin-right: 20px;
@@ -108,6 +113,7 @@ p {
     background-color: #2589bd;
     color: #ffffff;
 }
+/* consolidated multiple selectors under new div class "benefits" */
 
 .benefits {
     margin-bottom: 32px;
