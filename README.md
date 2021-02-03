@@ -18,8 +18,7 @@ Finished product can be found here: https://jessicap5159.github.io/horiseon/
 ## Installation
 
 Requirements:
- -VS Code or similar code editor
- -Access to GitHub repository "horiseon"
+ VS Code or similar code editor, and access to GitHub repository "horiseon"
  
  Step 1: Create or sign into GitHub account.
  Step 2: Find the repository "horiseon" using the search bar.
@@ -33,14 +32,14 @@ Requirements:
 After following the above steps for installation, make edits using the VS Code editor.
 Adding comments allows other developers to track changes as needed:
 ```md
-![screen shot of comments](assets/images/screenshot_comments.png)
+![screen shot of comments](./assets/images/screenshot_comments.png)
 ```
 One example of an edit is to add a section class (here "our-benefits") to enhance accessibility. The element is added in HTML, and the CSS code is updated to reflect this change:
 ```md
-![screen shot of HTML edit](assets/images/screenshot_edit.png)
+![screen shot of HTML edit](./assets/images/screenshot_edit.png)
 ```
 ```md
-![screen shot of CSS edit](assets/images/screenshot_edit2.png)
+![screen shot of CSS edit](./assets/images/screenshot_edit2.png)
 ```
 Be sure to save edits using GitHub repository, and view changes using commands in code editor or by opening link above. 
 
