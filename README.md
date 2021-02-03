@@ -4,8 +4,8 @@
 
 Horiseon Refactored was built to enhance the accessibility of the web page for the marketing company Horiseon. Through this project, this developer has come to understand that many users with visual impairments rely on screen readers to help them access web pages, so the HTML code had to be amended with semantic elements and alt attributes to allow the readers to provide a clear description to the users. Such ease of access is important both to Horiseon and to this developer, so that advances in technology can be used to connect people with resources and with other members of the community. 
 The CSS code was also consolidated and re-organized to follow semantic structure, so that future developers may improve or modify the code with greater ease and clarity. Once again, one of the goals of this developer was to make it easier for people to connect with resources and with one another, and improving the clarity of the code enables people to collaborate on it with greater facility. 
-
-Finished product can be found here: https://jessicap5159.github.io/horiseon/
+Horiseon is a marketing agency that provides search engine optimization, online reputation management, and social media marketing, utilzing lead generation, brand awareness, and cost management. 
+Their site can be found here: https://jessicap5159.github.io/horiseon/
 
 ## Table of Contents
 
@@ -17,26 +17,14 @@ Finished product can be found here: https://jessicap5159.github.io/horiseon/
 
 ## Installation
 
-Requirements:
- VS Code or similar code editor, and access to GitHub repository "horiseon"
- 
- Step 1: Create or sign into GitHub account.
- Step 2: Find the repository "horiseon" using the search bar.
- Step 3: Open command prompt on local machine and create or navigate to desired directory.
- Step 4: Open VS Code or other code editor.
- Step 5: Clone horiseon repository from GitHub by copying the URL from GitHub and pasting it into command line with command "clone" followed by URL.
- Step 6: Open files in code editor (using command line) and make the desired edits.
+Visit the link above to access Horiseon.
 
 ## Usage 
+ 
+Click on the section in the nav bar to which you would like to navigate:
 
-After following the above steps for installation, make edits using the VS Code editor.
-Adding comments allows other developers to track changes as needed:
-![screen shot of comments](./assets/images/screenshot_comments.png)
-One example of an edit is to add a section class (here "our-benefits") to enhance accessibility. The element is added in HTML, and the CSS code is updated to reflect this change:
-![screen shot of HTML edit](./assets/images/screenshot_edit.png)
-![screen shot of CSS edit](./assets/images/screenshot_edit2.png)
-Be sure to save edits using GitHub repository, and view changes using commands in code editor or by opening link above. 
-
+![screen shot of nav bar](./assets/images/nav_bar.png)
+![screen shot of SEO section](./assets/images/seo_section.png)
 
 ## Credits
 
